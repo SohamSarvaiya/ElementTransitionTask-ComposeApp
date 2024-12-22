@@ -1,5 +1,6 @@
 ElementTransitionTask-ComposeApp
 A beautifully designed Jetpack Compose application that demonstrates seamless element transition animations. The app showcases a list of items, such as food or product lists, with smooth animations as users interact with each element.
+
 --->Watch This video for a better understanding <------
 https://github.com/user-attachments/assets/3a1b20e5-e917-4ce5-bc1f-e74886357f46
 
